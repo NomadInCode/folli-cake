@@ -9,7 +9,7 @@
 * {
   box-sizing: border-box;
   font-family: "Space Mono", monospace;
-  border: 1px solid black;
+  /* border: 1px solid black; */
 }
 
 a {
